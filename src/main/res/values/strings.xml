@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">June17</string>
+    <string name="title_activity_user">user</string>
+    <string name="password_text">PASSWORD</string>
+    <string name="username_text">USERNAME</string>
+    <string name="loginpage_text">LOGIN PAGE</string>
+    <string name="attempts_text">ATTEMPTS:</string>
+    <string name="login_text">LOGIN</string>
+    <string name="secondpage_text">welcome to the page</string>
+</resources>
